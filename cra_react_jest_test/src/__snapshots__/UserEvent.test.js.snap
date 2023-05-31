@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders test jest heading 1`] = `
+<div>
+  <button
+    type="button"
+  >
+    Click me
+  </button>
+  <h1>
+    Test Jest
+  </h1>
+</div>
+`;
